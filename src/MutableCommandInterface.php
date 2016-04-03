@@ -9,14 +9,14 @@ namespace Dhii\ShellCommandInterop;
  * For more information, please see the
  * {@link https://github.com/Dhii/shell-command-interop/wiki/Shell-Command-Interop specification}.
  * 
- * @since [*next-version*]
+ * @since 0.1
  *
  * @author Dhii Team <development@dhii.co>
  */
 interface MutableCommandInterface
 {
     /**
-     * @since [*next-version*]
+     * @since 0.1
      * @param string|mixed $mainCommand Something that represents the main command.
      *  Must be castable to string.
      */
@@ -25,7 +25,7 @@ interface MutableCommandInterface
     /**
      * Adds a sub command to the command.
      * 
-     * @since [*next-version*]
+     * @since 0.1
      * @param string|mixed $subCommand Something that represents a sub command.
      *  Must be castable to string.
      */
@@ -34,7 +34,7 @@ interface MutableCommandInterface
     /**
      * Adds a parameter to the command.
      * 
-     * @since [*next-version*]
+     * @since 0.1
      * @param string|mixed $parameter Something that represents a command parameter.
      *  Must be castable to string.
      */
@@ -43,7 +43,7 @@ interface MutableCommandInterface
     /**
      * Adds an argument to the command.
      * 
-     * @since [*next-version*]
+     * @since 0.1
      * @param string|mixed $argument Something that represents a command argument.
      *  Must be castable to string.
      */
@@ -52,7 +52,7 @@ interface MutableCommandInterface
     /**
      * Adds a flag to the command.
      * 
-     * @since [*next-version*]
+     * @since 0.1
      * @param string|mixed $flag Something that represents a command flag.
      *  Must be castable to string.
      */
