@@ -6,6 +6,9 @@ namespace Dhii\ShellCommandInterop;
  * Something that represents a shell command that provides means for basic
  * configuration of its execution parameters.
  * 
+ * For more information, please see the
+ * {@link https://github.com/Dhii/shell-command-interop/wiki/Shell-Command-Interop specification}.
+ * 
  * @since [*next-version*]
  *
  * @author Dhii Team <development@dhii.co>
