@@ -1,0 +1,14 @@
+{
+    "name": "dhii/shell-command-interop",
+    "description": "A standard for structured configuration of shell commands",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dhii Team",
+            "email": "development@dhii.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
